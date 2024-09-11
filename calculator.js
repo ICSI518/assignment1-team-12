@@ -3,7 +3,7 @@
 
 // Function to multiply two numbers
 function multiply(a, b) {
-    // return a * b;
+     return a * b;
   }
 
 // Function to add two numbers
